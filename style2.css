@@ -1,0 +1,29 @@
+body{
+    padding: 50px;
+    background: #ac03c9;
+}
+.container{
+    background: white;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 35px 0px;
+    border-radius: 5%;
+}
+.heady {
+    padding-bottom : 25px;
+    text-align: center;
+}
+.form-group{
+    margin-bottom: 30px;
+}
+.form-btn { 
+    padding-left: 40%;
+    display: flex;
+    
+}
+.relog {
+    margin:20px;
+    text-align: center;
+    color: #ac03c9;
+}
